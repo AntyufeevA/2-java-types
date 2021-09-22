@@ -4,9 +4,9 @@ public class Task13 {
 
     public static char toUpperCase(char c) {
 
-        // TODO привести букву к верхнему регистру
+        // полри
 
-        return c;
+        return (char) (c - 'a' + 'A');
     }
 
     public static void main(String[] args) {
