@@ -4,9 +4,9 @@ public class Task06 {
 
     public static int solution(int x, int y) {
 
-        // TODO напишите здесь свою корректную реализацию этого метода, вместо сеществующей
+        // функция
 
-        return 0;
+       return String.valueOf(Math.abs(x + y)).length();
     }
 
     public static void main(String[] args) {
